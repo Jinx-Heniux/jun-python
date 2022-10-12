@@ -17,9 +17,15 @@ Start using the virtual environment
 ```bash
 source venv/bin/activate
 ```
+
 Stop using the virtual environment 
 ```bash
 deactivate
+```
+
+使用pip自动生成requirements.txt文件
+```bash
+pip freeze > requirements.txt
 ```
 
 # Coursera - Python 3 Programming
