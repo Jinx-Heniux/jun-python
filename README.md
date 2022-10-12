@@ -8,9 +8,9 @@ Install venv module on Ubuntu 20.04
 sudo apt install -y python3-venv
 ```
 
-Create a new virtual environment called my_venv
+Create a new virtual environment called venv
 ```bash
-python3 -m venv my_venv
+python3 -m venv venv
 ```
 
 Start using the virtual environment
