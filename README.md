@@ -22,6 +22,11 @@ Foundations of Python Programming
 
 * oo/inheritance/mro1.py
 
+[【05 类对象和实例对象访问属性的区别和property属性】04 创建property属性的方式 装饰器 - YouTube](https://www.youtube.com/watch?v=-NOxRxh_glo)
+
+* oo/property/property1.py
+* oo/property/property2.py
+
 
 
 
