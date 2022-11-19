@@ -27,8 +27,9 @@ Foundations of Python Programming
 * oo/property/property1.py
 * oo/property/property2.py
 
+[【05 类对象和实例对象访问属性的区别和property属性】06 property属性的应用2 - YouTube](https://www.youtube.com/watch?v=PK5iaUwwhZY)
 
-
+* oo/property/property3.py
 
 
 
