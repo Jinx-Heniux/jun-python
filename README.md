@@ -12,6 +12,14 @@ Foundations of Python Programming
 
 
 
+# 视频 V0002 黑马 Python 2018 面向对象
+
+[【02-面向对象练习】029 私有属性和方法 01 应用场景、定义方式和演练 - YouTube](https://www.youtube.com/watch?v=1zsiRCxJQlk)
+
+* oo/private/private1.py
+
+
+
 
 
 
